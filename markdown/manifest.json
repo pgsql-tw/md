@@ -1,0 +1,23 @@
+[
+  {
+    "name": "project-a",
+    "hasTemplate": true,
+    "files": [
+      {
+        "name": "about.md"
+      },
+      {
+        "name": "README.md"
+      }
+    ]
+  },
+  {
+    "name": "project-b",
+    "hasTemplate": true,
+    "files": [
+      {
+        "name": "index.md"
+      }
+    ]
+  }
+]
